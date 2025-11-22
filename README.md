@@ -17,7 +17,7 @@ fields_of_interests:
     "UI/UX",
   ]
   
-currently_learning: ["Python, Java, Node.js, Agentic AI"]
+currently_learning: ["Python, Laravel, Java, Node.js, Agentic AI"]
 2025 Goals: ["Create 20+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Watch a Korean Drama, Fangirling"]
 
